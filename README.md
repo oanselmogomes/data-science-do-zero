@@ -1,4 +1,4 @@
-Data Science from Scratch
+Data Science Do Zero: Noções Fundamentais com Python
 =========================
 
 Here's all the code and examples from the second edition of my book _Data Science from Scratch_. They require at least Python 3.6.
